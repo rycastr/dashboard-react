@@ -1,4 +1,4 @@
-# Simple dashboard project
+# Dashboard UI project
 This project is based on tailwind-ui dashboard, using [Chakra UI](https://chakra-ui.com/)
 
 ![Workflow Screenshot](./images/screenshot.png "Workflow")
